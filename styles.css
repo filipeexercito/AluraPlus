@@ -151,10 +151,6 @@ body {
     color: var(--botao-azul);
 }
 
-.rodape__lista a:visited {
-    color: var(--efeito-botao-hover);
-}
-
 .container__botao:hover {
     background-color: var(--efeito-botao-hover);
     color: var(--cor-de-fundo);
